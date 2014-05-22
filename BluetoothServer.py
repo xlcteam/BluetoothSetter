@@ -43,3 +43,5 @@ if __name__ == "__main__":
     
     if (raw_input() == 'y'):
         pass
+
+    dev.close()
