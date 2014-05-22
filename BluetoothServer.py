@@ -26,6 +26,7 @@ if __name__ == "__main__":
 
     if len(s) == 0:
         print "No ports available"
+        return
 
     port = s[input("Select port id: ")]
 
